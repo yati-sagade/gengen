@@ -1,0 +1,10 @@
+[package]
+name = "gengen"
+version = "0.1.0"
+authors = ["Yati Sagade <yati.sagade@booking.com>"]
+
+[dependencies]
+rand = "*"
+num = "*"
+
+
